@@ -3,13 +3,17 @@
 					$my_query = new WP_Query( array('showposts' => 1, 'category_name'  => 'message-from-administration'));
 				   			while ( $my_query->have_posts() ) : $my_query->the_post(); ?>
 				   				<article class="post">
+							   		
 							   		<header class="postmeta">
 										<h1><?php the_title(); ?></h1>
+											<img src="<?php the_post_thumbnail_url(); ?>" alt="Admin photo" />
+											<!--
 											<ul>
 												<li><img src="<?php echo get_template_directory_uri(); ?>/assets/icons/calendar-ltblue.svg" alt="" /><?php the_time(' F jS, Y') ?></li>
 											</ul>
+											-->
 									</header>
-									<img src="<?php the_post_thumbnail_url(); ?>" alt="Admin photo" class="left" />
+									
 							   		<?php echo get_excerpt(); ?>
 							   		<p class="readmore"><a href="<?php the_permalink(); ?>">Read More</a></p>
 							   	</article>
@@ -24,6 +28,12 @@
 			<section>
 				<h1>Parent Resources</h1>
 				<ul class="imagelist">
+					<li>
+						<a href="<?php echo get_home_url(); ?>/study-at-home/">
+							<img src="<?php echo get_template_directory_uri(); ?>/assets/icons/study-at-home.svg" alt="" />
+							<span>Study At Home</span>
+						</a>
+					</li>
 					<li>
 						<a href="https://grades.provo.edu/public/">
 							<img src="<?php echo get_template_directory_uri(); ?>/assets/icons/power-school.png" alt="" />
@@ -67,6 +77,7 @@
 							<span>Volunteer Opportunities</span>
 						</a>
 					</li>
+					
 				</ul>
 			</section>
 		</aside>
