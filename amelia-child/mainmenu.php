@@ -24,7 +24,7 @@
 		</li>
 		<li class="droppable"><a href="<?php echo get_home_url(); ?>/title-i/" aria-haspopup="true">Title I</a>
 			<div class="mega-menu" aria-label="submenu">
-				<h2>Faculty &amp; Staff</h2>
+				<h2>Title I</h2>
 					<?php echo file_get_contents('mega-menu-dropdowns/titlei.php'); ?>
 			</div>
 		</li>
@@ -34,7 +34,7 @@
 	   <li><a href="<?php echo get_home_url(); ?>">News</a></li>
 	   <li><a href="<?php echo get_home_url(); ?>/school-information/">School Information</a></li>   
 	   <li><a href="<?php echo get_home_url(); ?>/policies-forms/">Policies &amp; Forms</a></li>
-	   <li><a href="<?php echo get_home_url(); ?>/faculty-staff/main-office-administration/">Faculty &amp; Staff</a></li>
+	   <li><a href="<?php echo get_home_url(); ?>/faculty-staff/">Faculty &amp; Staff</a></li>
 	   <li><a href="<?php echo get_home_url(); ?>/title-i/">Title I</a></li>
 	</ul>
 </div>

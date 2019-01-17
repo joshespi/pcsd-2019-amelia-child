@@ -1,5 +1,5 @@
 <div class="dropDownColumn">
-					<h3><img src="https://timpviewbeta.provo.edu/wp-content/themes/pcsd-2019-theme/assets/icons/policy.svg" alt="" />Policies</h3>
+					<h3><img src="https://amelia.provo.edu/wp-content/themes/pcsd-2019-theme/assets/icons/policy.svg" alt="" />Policies</h3>
 						<ul>
 							
 							<li class="pdf"><a href="https://provo.edu/wp-content/uploads/2018/08/08142018-3150-Student-Attendance.pdf">3150 Student Attendance</a></li>
@@ -12,7 +12,7 @@
 						</ul>
 				</div>
 				<div class="dropDownColumn">
-					<h3><img src="https://timpviewbeta.provo.edu/wp-content/themes/pcsd-2019-theme/assets/icons/procedures1.svg" alt="" />Procedures</h3>
+					<h3><img src="https://amelia.provo.edu/wp-content/themes/pcsd-2019-theme/assets/icons/procedures1.svg" alt="" />Procedures</h3>
 						<ul>
 							<li class="pdf"><a href="https://provo.edu/wp-content/uploads/2018/08/08142018-3150-P1-Elementary-Students.pdf">3150 Procedure 1 Elementary Student Attendance</a></li>
 							<li class="pdf"><a href="https://provo.edu/wp-content/uploads/2018/08/08142018-3160-P1-Non-Utah-Resident-Students.pdf">3160 Procedure 1 Non-Utah Resident Students</a></li>
@@ -25,11 +25,11 @@
 						</ul>
 				</div>
 				<div class="dropDownColumn">
-					<h3><img src="https://timpviewbeta.provo.edu/wp-content/themes/pcsd-2019-theme/assets/icons/form.svg" alt="" />Forms</h3>
+					<h3><img src="https://amelia.provo.edu/wp-content/themes/pcsd-2019-theme/assets/icons/form.svg" alt="" />Forms</h3>
 						<ul>
 							
-							<li class="pdf"><a href="https://sandbox2.provo.edu/amelia/wp-content/uploads/2018/11/Pre-Approved-Form-201701.pdf">Pre Approved Absence Request Form</a></li>
-							<li class="pdf"><a href="https://sandbox2.provo.edu/amelia/wp-content/uploads/2018/11/science-fair-form-2019.pdf">Science Fair Entry Form</a></li>
+							<li class="pdf"><a href="https://amelia.provo.edu/wp-content/uploads/2018/11/Pre-Approved-Form-201701.pdf">Pre Approved Absence Request Form</a></li>
+							<li class="pdf"><a href="https://amelia.provo.edu/wp-content/uploads/2018/11/science-fair-form-2019.pdf">Science Fair Entry Form</a></li>
 							<li class="pdf"><a href="https://provo.edu/wp-content/uploads/2018/08/08142018-3320-F1-NOTIFICATION-RECORD-OF-STUDENT-BULLYING-INCIDENT-OR-SUICIDE-THREAT.pdf">3320 Form 1 Bullying Notification</a></li>
 							<li class="pdf"><a href="https://provo.edu/wp-content/uploads/2018/08/08142018-3320-F2-Bullying-Harassment-Hazing-Retaliation-Incident-Reporting-Form.pdf">3320 Form 2 Bullying, Harassment, Hazing & Retaliation Incident Reporting</a></li>
 							
