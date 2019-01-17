@@ -29,7 +29,7 @@
 		        searchInputs: ['cludo-search-form'],
 		        template: 'StandardInlineImages',
 		        type: 'inline',
-		        initFacets: { "Category": ["Amelia Elementary"] }     
+		        initFacets: { "Category": ["Amelia Earhart Elementary"] }     
 		    };
 		CludoSearch= new Cludo(cludoSettings);
 		CludoSearch.init();
