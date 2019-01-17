@@ -11,8 +11,8 @@
  Text Domain:  amelia-child
 
  Color Pallet
- Primary -  brown - #2f6384
- Secondary - yellow - #e2806c
+ Primary -  BLUE - #2f6384
+ Secondary - PINK - #e2806c
  Accent Color - White - #ffffff
  
 */
@@ -89,13 +89,13 @@ header styles
 #mainHeader .contactinfo li span.phone, #mainHeader .contactinfo li span.fax {
 	margin-left: 10px;
 }
-@media (max-width: 1360px) {
+@media (max-width: 1484px) {
 	#mainHeader h1 {font-size: 2.5em;top: 17px;}
 }
-@media (max-width: 1270px) {
+@media (max-width: 1360px) {
 	#mainHeader h1 {font-size: 2em;top:17px;}
 }
-@media (max-width: 1184px) {
+@media (max-width: 1238px) {
 	#mainHeader h1 {top: 10px;}
 	#mainHeader aside {top:65px;left: 71px;right: auto;}
 	/*#mainHeader .sociallinks,#mainHeader #search-box .search-input, #mainHeader #search-box .search-submit {top:24px;}*/
@@ -161,7 +161,7 @@ header styles
 @media (max-width: 415px) {
 	#mainHeader #siteLogo {width: 60px;margin-top: 0px;}
 	#mainHeader #cludo-search-form .search-input {left:-33px;width: 100%;}
-	#mainHeader #cludo-search-form .search-input, #mainHeader #cludo-search-form .search-submit {top: 15px;}
+	
 	#mainHeader h1 {width: 74%}
 
 	/*
@@ -295,13 +295,14 @@ Calendar plugin styling
 #mainSidebar .simcal-calendar a:hover {color:#fc7e02;}
 #mainSidebar .simcal-calendar .simcal-event-title {font-weight: bold;}
 #mainSidebar .simcal-calendar .simcal-current {display: none;}
-#mainSidebar .simcal-default-calendar-dark .simcal-nav-button {color: #02365b!important;}
+#mainSidebar .simcal-default-calendar-light .simcal-nav-button {color: #02365b!important;}
 #mainSidebar .simcal-default-calendar-list dt.simcal-day-label > span {width: 94%;color: #fff!important;}
 #mainSidebar .simcal-default-calendar-list .simcal-event-details {border-bottom: 1px solid #02365b;}
 #mainSidebar .simcal-default-calendar-list .simcal-event-details .simcal-event-start-date {display: none;}
-.single-page .simcal-day-label {background-color: #02224f!important;}
+.single-page .simcal-day-label {background-color: #2f6384!important;}
 .single-page .simcal-present div {border: 1px solid #fc7e02!important; }
-.single-page .simcal-present .simcal-day-label {background-color: #fc7e02!important;}
+.single-page .simcal-present .simcal-day-label {background-color: #e2806c!important;}
+
 /*================================================================================================================
 Post grid
 ================================================================================================================*/
