@@ -25,7 +25,6 @@
             <li class="int"><a href="https://amelia.provo.edu/school-information/parent-teacher-association/">PTA</a></li>
 			<li class="int"><a href="https://amelia.provo.edu/school-information/volunteer-opportunities/">Volunteer Opportunities</a></li>
 			<li class="int"><a href="https://amelia.provo.edu/school-information/walking-to-school/">Walking to School</a></li>
-			<li class="pdf"><a href="https://amelia.provo.edu/wp-content/uploads/2018/11/Wasatch-Boundaries.pdf">Boundary Map</a></li>
 			<li class="int"><a href="https://amelia.provo.edu/school-information/before-after-school-program/">Before &amp; After School Program</a></li>
 			<li class="int"><a href="https://amelia.provo.edu/school-information/stem/">STEM Fair</a></li>
 		</ul>
