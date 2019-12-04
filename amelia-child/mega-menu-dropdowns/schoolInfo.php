@@ -11,6 +11,7 @@
 			<li class="int"><a href="https://amelia.provo.edu/study-at-home/">Study At Home</a></li>
 			<li class="ext"><a href="https://grades.provo.edu/public/">Grades & Attendance (PowerSchool)</a></li>
 			<li class="int"><a href="https://amelia.provo.edu/faculty-staff/teachers-directory/">Classrooms</a></li>
+			<li class="ext"><a href="https://www.canyoncreeksoftware.com/scheduler/ut/provo/">SEP Conference Online Scheduler</a></li>
 		</ul>
 </div>
 <div class="dropDownColumn">
