@@ -23,4 +23,8 @@
 							<li class="pdf"><a href="https://amelia.provo.edu/wp-content/uploads/2018/11/2017_ParentSchoolCompact.pdf">Parent-School Compact (English)</a></li>
 							<li class="pdf"><a href="https://amelia.provo.edu/wp-content/uploads/2018/11/2017ParentSchoolCompactSpanish.pdf">Parent-School Compact (Spanish)</a></li>
 						</ul>
+						<h3><img src="https://amelia.provo.edu/wp-content/themes/pcsd-2019-theme/assets/icons/policy.svg" alt="" />Additional Resources</h3>
+						<ul>
+							<li><a href="https://amelia.provo.edu/wp-content/uploads/2020/01/AE_SchoolReportCard2_FY19.pdf">School Report Card</a></li>
+						</ul>
 				</div>
